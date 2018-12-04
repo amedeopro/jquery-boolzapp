@@ -182,6 +182,7 @@
   width: 95%;
   height: 72px;
   border-bottom: 1px solid lightgrey;
+  cursor: pointer;
 }
 
 .img-contatti{
@@ -219,4 +220,8 @@
   color: grey;
   margin-top: 15px;
   display: inline-block;
+}
+
+.templateMessage{
+  display: none;
 }
