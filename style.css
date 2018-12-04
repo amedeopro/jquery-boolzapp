@@ -48,6 +48,7 @@
   width: 100%;
   height: 700px;
   background: url('img/bg_chat.png');
+  overflow-y: scroll;
 }
 
 .footer-right-side{
@@ -132,4 +133,46 @@
   margin: 0 13px;
   font-size: 20px;
   color: #888D90;
+}
+
+.all-message-container{
+  width: 80%;
+  margin: auto;
+  padding-top: 10px;
+}
+
+.message{
+  float: left;
+  background: #DEFAC5;
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+}
+
+.clear{
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.new-message{
+  float: right;
+  background: white;
+  width: 50%;
+  padding: 10px;
+  margin-bottom: 25px;
+  border-radius: 10px;
+}
+
+.orario{
+  display: inline-block;
+  text-align: right;
+}
+
+.orario p{
+  display: inline-block;
+  right: 0px;
+  color: grey;
+  font-size: 10px;
 }
