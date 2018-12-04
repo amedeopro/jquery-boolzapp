@@ -176,3 +176,47 @@
   color: grey;
   font-size: 10px;
 }
+
+.contatti{
+  margin: auto;
+  width: 95%;
+  height: 72px;
+  border-bottom: 1px solid lightgrey;
+}
+
+.img-contatti{
+  width: 10%;
+  display: inline-block;
+  float: left;
+}
+
+.img-contatti img{
+  height: 65px;
+  border-radius: 100px;
+}
+
+.text-contatti {
+  display: inline-block;
+  width: 65%;
+  height: 72px;
+  float: left;
+  margin-left: 55px;
+  margin-top: 15px;
+}
+
+.text-contatti h1{
+  font-size: 18px;
+  color: grey;
+}
+
+.text-contatti span{
+  font-size: 12px;
+  color: lightgrey;
+}
+
+.orario-contatti{
+  font-size: 15px;
+  color: grey;
+  margin-top: 15px;
+  display: inline-block;
+}
