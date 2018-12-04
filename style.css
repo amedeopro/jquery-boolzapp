@@ -53,6 +53,7 @@
   height: 50px;
   width: 100%;
   background: #EFEFEF;
+  line-height: 50px;
 }
 
 .img-profilo{
@@ -91,4 +92,19 @@
  border: 1px solid #F6F6F6;
  border-radius: 5px;
  padding-left: 20px;
+}
+
+.footer-right-side input[type=text]{
+  width: 90%;
+  height: 30px;
+  font-size: 15px;
+  border: 1px solid #F6F6F6;
+  border-radius: 50px;
+  padding-left: 20px;
+}
+
+.footer-right-side i{
+  margin: 0 13px;
+  font-size: 20px;
+  color: #888D90;
 }
