@@ -143,7 +143,7 @@
 
 .message{
   float: left;
-  background: #DEFAC5;
+  background: white;
   width: 50%;
   padding: 10px;
   margin-bottom: 25px;
@@ -158,7 +158,7 @@
 
 .new-message{
   float: right;
-  background: white;
+  background: #DEFAC5;
   width: 50%;
   padding: 10px;
   margin-bottom: 25px;
