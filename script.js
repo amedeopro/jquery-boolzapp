@@ -5,7 +5,7 @@ $(document).ready(function(){
 
       var nuovoTemplateMessaggio = $('.templateMessage .new-message');
 
-      var clearTemplate = $('.templateMessage .clear');
+      var clear = $('.templateMessage .clear');
 
       nuovoTemplateMessaggio.text(nuovoMessaggio);
 
