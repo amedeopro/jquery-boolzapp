@@ -65,12 +65,12 @@
   margin: 10px;
 }
 
-.icon-top-bar-left{
+.icon-top-bar-left, .icon-top-bar-right{
   float: right;
   line-height: 50px;
 }
 
-.icon-top-bar-left i{
+.icon-top-bar-left i, .icon-top-bar-right i{
   margin-right: 20px;
   color: #888D90;
   font-size: 20px;
