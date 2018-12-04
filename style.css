@@ -60,9 +60,9 @@
 }
 
 .img-profilo > img{
-  height: 40px;
+  height: 30px;
   border-radius: 100px;
-  margin: 5px;
+  margin: 10px;
 }
 
 .icon-top-bar-left{
@@ -71,7 +71,7 @@
 }
 
 .icon-top-bar-left i{
-  margin-right: 10px;
-  color: grey;
-  font-size: 25px;
+  margin-right: 20px;
+  color: #888D90;
+  font-size: 20px;
 }
