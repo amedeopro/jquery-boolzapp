@@ -40,6 +40,7 @@
   width: 100%;
   height: 50px;
   background: #EEEEEE;
+
 }
 
 .body-right-side{
@@ -52,4 +53,25 @@
   height: 50px;
   width: 100%;
   background: #EFEFEF;
+}
+
+.img-profilo{
+  display: inline-block;
+}
+
+.img-profilo > img{
+  height: 40px;
+  border-radius: 100px;
+  margin: 5px;
+}
+
+.icon-top-bar-left{
+  float: right;
+  line-height: 50px;
+}
+
+.icon-top-bar-left i{
+  margin-right: 10px;
+  color: grey;
+  font-size: 25px;
 }
